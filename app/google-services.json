@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "569664281876",
+    "firebase_url": "https://shopit-4fd98.firebaseio.com",
+    "project_id": "shopit-4fd98",
+    "storage_bucket": "shopit-4fd98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569664281876:android:2f7bce66ff091760",
+        "android_client_info": {
+          "package_name": "com.example.aditya.shopit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569664281876-5718dvcb677tb5cjls0ebeail6gblgcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.shopit",
+            "certificate_hash": "681560468cf233347bc57866369f4f6566532817"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFypIBHUQnvqivsFKhTrwQTh9qMvdbxSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569664281876-iv9imklgbjs21882qdaep09t5hrgb50g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
